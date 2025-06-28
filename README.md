@@ -1,6 +1,6 @@
 # 🚗 Car Price Prediction with Machine Learning
 
-This project was developed as part of the **CodeAlpha Data Science Internship**, focused on using regression models to predict the selling price of a used car based on its features.
+This project focuses on using regression models to predict the selling price of a used car based on its features.
 
 ---
 
