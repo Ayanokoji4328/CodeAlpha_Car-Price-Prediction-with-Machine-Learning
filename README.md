@@ -28,6 +28,8 @@ The dataset contains the following features:
 - `Transmission`: Manual or Automatic  
 - `Owner`: Number of previous owners  
 
+Database Link: https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars
+
 ---
 
 ## 🚀 Project Workflow
@@ -63,39 +65,3 @@ The most important feature influencing the car's price is `Present_Price`, follo
   - MSE: (printed in notebook)
 
 ---
-
-## 🧠 Future Enhancements
-
-- Try other regression models (e.g., Gradient Boosting, XGBoost)  
-- Tune hyperparameters using GridSearchCV  
-- Deploy the model using **Streamlit** for interactive predictions  
-- Include additional features like insurance cost, service history, etc.
-
----
-
-## 🛠️ How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/car-price-prediction.git
-cd car-price-prediction
-```
-
-2. Install dependencies:
-```bash
-pip install pandas matplotlib seaborn scikit-learn
-```
-
-3. Launch the notebook:
-```bash
-jupyter notebook car_price_prediction.ipynb
-```
-
----
-
-## 🙋‍♂️ Author
-
-**Your Name**  
-*Data Science Intern @ CodeAlpha*  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](#)
