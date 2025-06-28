@@ -60,8 +60,8 @@ The most important feature influencing the car's price is `Present_Price`, follo
 
 - **Model Used**: Random Forest Regressor  
 - **Evaluation Metrics**:
-  - R² Score: (printed in notebook)
-  - MAE: (printed in notebook)
-  - MSE: (printed in notebook)
+  - R² Score: 0.9594566919773236
+  - MAE: 0.6368655737704919
+  - MSE: 0.9339387986885236
 
 ---
